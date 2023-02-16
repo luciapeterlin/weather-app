@@ -2,7 +2,7 @@
 
 A simple web application that gets current weather information using Axios and the Weather Api.
 
-![Alt Text](https://giphy.com/gifs/j2Bbs2qAUNwlFoizAP)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEzN2M3MzI1ZjE3MmY3NDdhODFmYjgzMDViM2M2ODNmNzNlZTAzNyZjdD1n/j2Bbs2qAUNwlFoizAP/giphy.gif)
 
 ## To use this project: 
 
